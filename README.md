@@ -6,7 +6,7 @@
         <h2>You can reach me on LinkedIn👇🏻</h2>
     <br>
 
-<a href="linkedin.com/in/rafaelgoesds">Rafael Goes on LinkedIn</a>
+<a href="https://www.linkedin.com/in/rafaelgoesds">Rafael Goes on LinkedIn</a>
 </div>
 
 
