@@ -17,6 +17,7 @@
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FAFAFA?style=for-the-badge&logo=javascript&logoColor=black">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FAFAFA?style=for-the-badge&logo=node.js&logoColor=black">
         <img alt="React" src="https://img.shields.io/badge/React-FAFAFA?style=for-the-badge&logo=react&logoColor=black">
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-FAFAFA?style=for-the-badge&logo=figma&logoColor=black">
         
 
 </div>
