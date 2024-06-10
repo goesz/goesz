@@ -12,12 +12,9 @@
 </div>
 
 <div style="display: inline_block"; align="center"><br>
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML-FAFAFA?style=for-the-badge&logo=html5&logoColor=black">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS-FAFAFA?&style=for-the-badge&logo=css3&logoColor=black">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FAFAFA?style=for-the-badge&logo=javascript&logoColor=black">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FAFAFA?style=for-the-badge&logo=node.js&logoColor=black">
-        <img alt="React" src="https://img.shields.io/badge/React-FAFAFA?style=for-the-badge&logo=react&logoColor=black">
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-FAFAFA?style=for-the-badge&logo=figma&logoColor=black">
+        <img alt="Java" src="https://img.shields.io/badge/Java-FAFAFA?style=for-the-badge&logo=openjdk&logoColor=black">
         
 
 </div>
