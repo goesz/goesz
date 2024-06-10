@@ -1,7 +1,7 @@
 <div align="center">
  <h4>Hello! I'm a brazilian guy who are solving problems (and making nice screens) through code.</h4>
 <div style="display: inline_block"> <br>
-        <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+        
 </div> </div> 
 <br>
 
