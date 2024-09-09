@@ -6,7 +6,7 @@
 <br>
 
 <div align="center";>    
-        You can reach me on <a href="https://www.linkedin.com/in/rafaelgoesds">LinkedIn</a>👇🏻
+        You can reach me on <a href="https://www.linkedin.com/in/rafaelgoesds">LinkedIn</a>
 </div>
 
 <div style="display: inline_block"; align="center"><br>
