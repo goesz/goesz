@@ -11,9 +11,12 @@
 
 <div style="display: inline_block"; align="center"><br>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FAFAFA?style=for-the-badge&logo=javascript&logoColor=black">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FAFAFA?style=for-the-badge&logo=typescript&logoColor=black">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3F3F3F?style=for-the-badge&logo=typescript&logoColor=fafafa">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FAFAFA?style=for-the-badge&logo=node.js&logoColor=black">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FAFAFA?style=for-the-badge&logo=openjdk&logoColor=black">
+        <img alt="Angular" src="https://img.shields.io/badge/Angular-3F3F3F?style=for-the-badge&logo=angular&logoColor=fafafa">
+        <img alt="GO" src="https://img.shields.io/badge/Go-FAFAFA?style=for-the-badge&logo=go&logoColor=black">
+        <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20Platform-3F3F3F?style=for-the-badge&logo=googlecloud&logoColor=fafafa">
+        
         
 
 </div>
